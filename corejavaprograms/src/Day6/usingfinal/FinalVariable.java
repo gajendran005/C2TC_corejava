@@ -1,6 +1,9 @@
 package Day6.usingfinal;
 
 public class FinalVariable {
+
+	// final int x; // final instance variable must be initialized
+
 	final int x = 100;
 
 	// Declare a static blank final variable.
